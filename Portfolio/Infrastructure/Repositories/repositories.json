@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "CORE Player",
+    "url": "",
+    "description": "Musicplayer escrito em C# com WindowForms, esta aplicação usa o framework CSCore player, exibe os dados id3tag das músicas, suporta os formatos mais populares, possui um equalizador de 10 bandas e suporte a playlists."
+  },
+  {
+    "id": 1,
+    "title": "RPA baixa dados curso Alura",
+    "url": "",
+    "description": "RPA escrita em C# utilizando o Selenium e Entity Framework. Essa aplicação utiliza conceitos como DDD (Domain Driven Design) e injeção de dependência. Essa RPA acessa o site da Alura, busca pelo termo RPA e salva os dados do curso em um arquivo do SQL server (.mdf)."
+  },
+  {
+    "id": 2,
+    "title": "Portfolio-API",
+    "url": "",
+    "description": "API REST escrita em C# que fornece endpoints para a consulta dos meus dados profissionais. Essa aplicação utiliza conceitos como DDD (Domain Driven Design), TDD (Test Driven Development), princípios S.O.L.I.D., contém um projeto de testes unitários escritos em xUnit e os repositórios são arquivos JSON apenas para exemplo."
+  },
+  {
+    "id": 3,
+    "title": "Portfolio-FrontEnd",
+    "url": "",
+    "description": "FrontEnd desenvolvido em Angular que se conecta aos endpoints disponíveis na Portfolio API e fornece uma interface amigável para visualização dos dados. Foram aplicados conceitos como API service para a leitura dos dados, autenticação, componentização, bindings, programação assíncrona dos Observable e etc."
+  },
+  {
+    "id": 4,
+    "title": "SingTalent",
+    "url": "",
+    "description": "Aplicativo simples escrito em C#, utiliza o componente do WindowsMediaPlayer para executar arquivos de vídeo de Videokê. dentre as funcionalidades estão a leitura automática da pasta de música criando uma lista dinâmica que pode ser usada para carregar as músicas, a criação de uma nova lista, comandos do video player."
+  }
+]

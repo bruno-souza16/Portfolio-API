@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "company": "Atento Brasil S/A",
+    "title": "Analista de Processos Logísticos",
+    "dateStart": "03/2017",
+    "dateEnd": "01/2020",
+    "description": "Desenvolvimento e manutenção de portal de informações, desenvolvimento de RPAs e automatizações para extração de dados, processos ETL, SAP, dashboards no PowerBI, elaboração de dashboards e relatórios Excel, acompanhamento de KPI e indicadores."
+  },
+  {
+    "id": 1,
+    "company": "Accenture",
+    "title": "Analista de Sustentação de Sistemas",
+    "dateStart": "02/2020",
+    "dateEnd": "08/2020",
+    "description": "Manutenção de sistemas e portais do cliente, desenvolvimento de novas funcionalidades, ferramentas de automação para extração de dados, administração de banco de dados SQL e Oracle, manutenção de código legado."
+  },
+  {
+    "id": 2,
+    "company": "JustFit Participações S/A ",
+    "title": "Analista de Sistemas Pleno Fullstack",
+    "dateStart": "08/2020",
+    "dataFim": "07/2021",
+    "description": "Desenvolvimento e manutenção de sistema de vendas online, sistema para treino físico online, API para processamento de pagamento, integração com API de terceiros, administração de banco de dados, testes unitários, testes automatizados."
+  },
+  {
+    "id": 3,
+    "company": "Decision Group",
+    "title": "Analista de Sistemas Pleno Fullstack",
+    "dateStart": "06/2021",
+    "dateEnd": "05/2022",
+    "description": "Manutenção de sistemas e portais do cliente, desenvolvimento de novas funcionalidades, integrações de sistemas, administração de banco de dados, microserviços, testes unitários, testes automatizados."
+  },
+  {
+    "id": 4,
+    "company": "Atento Brasil S/A",
+    "title": "Analista de Sistemas Pleno (Suporte Dev a processos logísticos)",
+    "dateStart": "06/2022",
+    "dateEnd": "09/2023",
+    "description": "Desenvolvimento de RPAs e automatizações para extração de dados web, SAP e outros, processos ETL, administração mde banco de dados, processamento de notas fiscais, testes unitários, testes automatizados."
+  },
+  {
+    "id": 5,
+    "company": "Digital Trace Company",
+    "title": "Analista de Sistemas Fullstack",
+    "dateStart": "12/2023",
+    "dateEnd": "08/2024",
+    "description": "Manutenção de sistema CRM de alta complexidade, desenvolvimento de novas funcionalidades, serviços de disparo automático de emails, comunicação de Webhooks para obtenção de leads, APIs, integrações, microserviços, administração de banco de dados."
+  }
+]

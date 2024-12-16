@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "title": "Princípios e conceitos",
+    "description": "Microserviços, API RESTFul, Microserviços, Conteinêrização, Webhooks, Testes Unitários, Desenvolvimento CI/CD, Boas práticas, Arquitetura MVC, DDD (Domain Driven Design), TDD (Test Driven Design), Princípios S.O.L.I.D., testes unitários, testes automatizados."
+  },
+  {
+    "id": 1,
+    "title": "Plataforma .NET",
+    "description": ".NET Core, .NET Framework, ORM (Entity Framework), Selenium, VSTO (Visual Studio to Office), SAPFEWSELib, Desenvolvimento Web, Window Forms, xUnit, NUnit."
+  },
+  {
+    "id": 2,
+    "title": "Node.Js",
+    "description": "Angular (Observable, Signal, TypedForms, Services, EventEmitter, Diretivas, Rotas, Componentização e etc), Typescript, HTML, CSS, Axios, Express."
+  },
+  {
+    "id": 3,
+    "title": "Plataforma Java",
+    "description": "Java 8+, Maven, JSF, Spring, Beans, JUnit."
+  },
+  {
+    "id": 4,
+    "title": "Outras Linguagens",
+    "description": "Javascript(JQuery, Ajax e etc.), básico em PHP, básico em Linguagem C, desenvolvimento de jogos digitais (C# framework Unity3D), VBScript (macros Excel)"
+  },
+  {
+    "id": 5,
+    "title": "Banco de Dados",
+    "description": "Relacionais (MySQL, MSSQL, PostgreSQL, etc) e não relacionais (NoSql), consultas, triggers, stored procedures."
+  },
+  {
+    "id": 6,
+    "title": "Ferramentas auxiliares",
+    "description": "Visual Studio, VS Code, IntelliJ, MS SQL Management, MySQL Worchbenk, DBeaver, XAMPP, Apache Server, Windows Server, Docker (Compose), Git (GitHub, GitLab), Postman, Swagger, Mailgun, Sendy, Ngrok, Blender, Unity3D, Microsoft Office, Excel Avançado."
+  }
+  
+]
